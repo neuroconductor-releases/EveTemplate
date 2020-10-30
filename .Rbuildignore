@@ -6,3 +6,7 @@ CITATIONS.bib
 ^.*\.Rproj$
 ^\.Rproj\.user$
 .gitignore
+^DESCRIPTION\.bak$
+^\.travis\.yml$
+^\./\.travis\.yml\.bak$
+^appveyor\.yml$
